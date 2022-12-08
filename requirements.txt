@@ -1,0 +1,3 @@
+django
+gunicorn
+django-admin-material-dashboard==1.0.5

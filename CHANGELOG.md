@@ -1,13 +1,8 @@
 # Change Log
 
-## [1.0.1] 2022-11-25
-### Changes
-
-- DOCS Update (README)
-
-## [1.0.0] 2022-11-25
+## [1.0.0] 2022-12-10
 ### Initial Release
 
-- Integrate [Django Admin Material](https://github.com/app-generator/django-admin-material-dashboard)
+- Integrate [Django AdminLTE Theme](https://github.com/app-generator/django-admin-adminlte)
 - Integrate all pages for `Django.contrib.AUTH`
 - Integrate all theme links
